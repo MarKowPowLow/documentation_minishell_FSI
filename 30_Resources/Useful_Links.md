@@ -1,0 +1,5 @@
+[42 Docs : Minishell subject](https://cdn.intra.42.fr/pdf/pdf/196103/en.subject.pdf): Detailed project requirements and constraints.
+[42sh Shell Architecture Conference in 2019](https://www.youtube.com/watch?v=oIFRiwFRSRY): This conference is a good reference because it breaks down the data flow between the different modules of a shell in a very educational way.
+[Let's Build a Linux Shell by Mohammed Isam](https://medium.com/@mohammedisam2000/lets-build-a-linux-shell-part-i-954c95911501): It a tutorial made to explain how Linux work and explaining how to code it in four parts (Sadly, there is too much code and not enough pseudo-code to just understand the process.).
+[Notes of a student for Minishell by GibbonTech Yassine Khomsi](https://www.gibbontech.com/fr/ecole42/minishell/index.html): A complete and clear Minishell documentation, outlining the project in major steps and explaining each phase. (Available in French and English.)
+[Documentation of the allowed functions of GitBook](https://42-cursus.gitbook.io/guide/3-rank-03/minishell/functions): Explanation of each permitted function with illustrative examples.
