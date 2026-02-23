@@ -1,6 +1,6 @@
 #### `export` (Le Créateur)
 
-- **Ce qu'il fait :** Ajoute ou modifie une variable dans notre environnement.
+- **Ce qu'il fait :** Ajoute ou modifie une ou plusieures variables dans notre environnement.
 
 - **Comportement attendu :**
 

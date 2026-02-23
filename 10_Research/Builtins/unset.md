@@ -1,6 +1,6 @@
 #### `unset` (Le Destructeur)
 
-- **Ce qu'il fait :** Supprime une variable de l'environnement.
+- **Ce qu'il fait :** Supprime une ou plusieures variables de l'environnement.
 
 - **Comportement attendu :**
 
